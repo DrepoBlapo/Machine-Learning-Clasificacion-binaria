@@ -1,4 +1,6 @@
-# Machine-Learning-Clasificacion-binaria
+![Banner](banner/banner_github.png)
+
+## Proyecto
 
 _ES_:
 En este análisis se propone encontrar un modelo basado en árboles (Árboles de regresión, RandomForest, XGBoost) para predecir el color de un coche dadas sus características.
